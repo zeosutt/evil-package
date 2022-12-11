@@ -1,0 +1,7 @@
+{
+  "name": "evil-package",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "id > /dev/tty"
+  }
+}
